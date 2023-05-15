@@ -1,0 +1,5 @@
+setup.py
+test1550getflag.egg-info/PKG-INFO
+test1550getflag.egg-info/SOURCES.txt
+test1550getflag.egg-info/dependency_links.txt
+test1550getflag.egg-info/top_level.txt
